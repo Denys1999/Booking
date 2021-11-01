@@ -1,0 +1,72 @@
+{
+  "items":[
+    {
+      "id":55342,
+      "name":"Hilton Atlanta","adress":"2420 west 73rd Street",
+      "city":"Atlanta","state":null,"country_code":"US","hotel_rating":4,
+      "phone_number":"3573473839329","website":null,
+      "pic":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.countryliving.com%2Flife%2Ftravel%2Fg3638%2Fhistoric-hotels-of-america%2F&psig=AOvVaw2kX77q5Y67qYyiSxDcZjuA&ust=1635509535648000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDVruOT7fMCFQAAAAAdAAAAABAD"
+    },
+  {
+    "id":55542,
+    "name":"Historic Hotels of America","adress":"24410 west 73rd Street",
+    "city":"Boston","state":null,"country_code":"US","hotel_rating":4,
+    "phone_number":"2573473839329","website":null,
+    "pic":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fclv.h-cdn.co%2Fassets%2F16%2F34%2F1472055647-strater-rt-4656-1.jpg&imgrefurl=https%3A%2F%2Fwww.countryliving.com%2Flife%2Ftravel%2Fg3638%2Fhistoric-hotels-of-america%2F&tbnid=V6xn1v0-nNBQlM&vet=12ahUKEwjqlLv4ie3zAhUKuqQKHd0yCCUQMygCegUIARCWAQ..i&docid=u9fH_SrQofX2DM&w=3000&h=1500&q=Historic%20Hotels%20of%20America&ved=2ahUKEwjqlLv4ie3zAhUKuqQKHd0yCCUQMygCegUIARCWAQ"
+  },
+  {
+    "id":234230,
+    "name":"Central Loop Hotel","adress":"220 west 73rd Street",
+    "city":"Chicago","state":null,"country_code":"US","hotel_rating":3,
+    "phone_number":"1573473839329","website":null
+  },
+  {
+    "id":55324322,
+    "name":"Historic Hotels of America","adress":"243340 west 73rd Street",
+    "city":"Washington","state":null,"country_code":"Br","hotel_rating":5,
+    "phone_number":"9573473839329","website":null
+  },
+  {
+    "id":5050450549,
+    "name":"Warwick Allerton - Chicago","adress":"25550 west 73rd Street",
+    "city":"Chicago","state":null,"country_code":"US","hotel_rating":5,
+    "phone_number":"66573473839329","website":null
+  },
+  {
+    "id":48567934570893,
+    "name":"Hampton Inn Washington, D.C./White House","adress":"245770 west 73rd Street",
+    "city":"Washington","state":null,"country_code":"US","hotel_rating":3,
+    "phone_number":"5673473839329","website":null
+  },
+  {
+    "id":42304987238,
+    "name":"The Central Park North","adress":"24221110 west 73rd Street",
+    "city":"New York","state":null,"country_code":"US","hotel_rating":2,
+    "phone_number":"3573473839329","website":null
+  },
+  {
+    "id":48464549505,
+    "name":"Hyatt Grand Central New York","adress":"254640 west 73rd Street",
+    "city":"New York","state":null,"country_code":"US","hotel_rating":1,
+    "phone_number":"573473839329","website":null
+  },
+  {
+    "id":1458934957923579,
+    "name":"Pod 51 Hotel","adress":"24666660 west 73rd Street",
+    "city":"New York","state":null,"country_code":"US","hotel_rating":5,
+    "phone_number":"573473839329","website":null
+  },
+  {
+    "id":99957575777333,
+    "name":"Freehand Los Angeles","adress":"24664540 west 73rd Street",
+    "city":"California","state":null,"country_code":"US","hotel_rating":3,
+    "phone_number":"573473839329","website":null
+  },
+  {
+    "id":5553666638888555,
+    "name":"Hilton Anaheim","adress":"242221250 west 73rd Street",
+    "city":"California","state":null,"country_code":"US","hotel_rating":5,
+    "phone_number":"573473839329","website":null
+  }
+]
+}

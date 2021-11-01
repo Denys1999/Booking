@@ -1,0 +1,28 @@
+{
+"items":[
+  {
+    "id":70,
+    "name":"Atlanta"
+  },
+  {
+    "id":80,
+    "name":"Boston"
+  },
+  {
+    "id":90,
+    "name":"Washington"
+  },
+  {
+    "id":100,
+    "name":"New York"
+  },
+  {
+    "id":110,
+    "name":"Chicago"
+  },
+  {
+    "id":120,
+    "name":"California"
+  }
+
+]}
